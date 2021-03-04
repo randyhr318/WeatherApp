@@ -1,3 +1,6 @@
+application.properties
+src/main/resources/spllication.properties
+
 HELP.md
 .gradle
 build/
